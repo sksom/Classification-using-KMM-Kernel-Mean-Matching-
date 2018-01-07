@@ -1,0 +1,32 @@
+Dataset: datafile-9xpoq4i8k20.c0.d4.C23.N2000.t16.T4.D1.E1.F1.G1.H1.I1.B16.J8.K300.L0.05.M100.A1.V0.P0.G0.l0.0.b600
+Accuracies:
+		Without KMM: 87%
+		With KMM: 88%
+Dataset: datafile-98m7fto4k100.c0.d4.C23.N2000.t16.T4.D1.E1.F1.G1.H1.I1.B16.J8.K300.L0.05.M100.A1.V0.P0.G0.l0.0.b600
+Accuracies:
+		Without KMM: 75%
+		With KMM: 84%
+Dataset: datafile-451nedtok100.c0.d4.C23.N2000.t16.T4.D1.E1.F1.G1.H1.I1.B16.J8.K300.L0.05.M100.A1.V0.P0.G0.l0.0.b600
+Accuracies:
+		Without KMM: 76%
+		With KMM: 85%
+Dataset: datafile-ayck0vm8k100.c0.d4.C23.N2000.t16.T4.D1.E1.F1.G1.H1.I1.B16.J8.K300.L0.05.M100.A1.V0.P0.G0.l0.0.b600
+Accuracies:
+		Without KMM: 75%
+		With KMM: 80%
+Dataset: datafile-mjnh4rkek20.c0.d4.C23.N2000.t16.T4.D1.E1.F1.G1.H1.I1.B16.J8.K300.L0.05.M100.A1.V0.P0.G0.l0.0.b600
+Accuracies:
+		Without KMM: 86%
+		With KMM: 86%
+Dataset: datafile-qrsnc2a7k20.c0.d4.C23.N2000.t16.T4.D1.E1.F1.G1.H1.I1.B16.J8.K300.L0.05.M100.A1.V0.P0.G0.l0.0.b600
+Accuracies:
+		Without KMM: 87%
+		With KMM: 93%
+
+
+Overall Best result: 93% accuracy from the last data-file.
+
+Classification Algorithm used: SVM is used as the classification algorithm because it is the best in class of the Machine Learning algorithms. The only algorithm which offers a competetion to the SVM is the deep learning algorithm which is efficient but takes significantly greater amount of time to learn and develop a model.
+
+
+ 
