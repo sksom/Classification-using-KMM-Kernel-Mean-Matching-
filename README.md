@@ -13,3 +13,8 @@ Kernel Mean Matching (KMM) is a well-known method for bias correction by estimat
 
 Dataset courtesy of Computer Science Department, The University of Texas at Dallas:
 Only one smallest size instance of a training dataset and one smallest size instance of a testing dataset is uploaded.
+
+
+Useful paper about KMM:
+ J Huang, A Gretton, KM Borgwardt, B Schölkopf, AJ Smola.
+Correcting sample selection bias by unlabeled data. In Advances in neural information processing systems, pages 601-608, 2006.
